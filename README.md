@@ -1,9 +1,9 @@
 
 # EXPERIMENT--01-ALP-FOR-8086
 
-Name :
-Roll no 
-Date of experiment :
+Name :KAVYA T
+Roll no : 2305003004
+Date of experiment :27.10.2021
 
 
 
@@ -123,8 +123,55 @@ HLT
 ![image](https://github.com/user-attachments/assets/e99ac4cc-448e-4782-8add-51f4099cd256)
 
 
+## AND of 8 bit ALP :
+```python
+MOV AL,22H
+MOV BL,32H
+AND AL,BL
+HLT
+```
+
+## Output:
+![image](https://github.com/user-attachments/assets/c56f4d18-2135-44c5-a999-c5335c046769)
+
+
+
+## OR of 8 bit ALP :
+```python
+MOV AL,30H
+MOV BL,62H
+OR AL,BL
+HLT
+```
+
+## Output :
+![image](https://github.com/user-attachments/assets/fee8f9ce-bb1b-4736-962a-1fd45b81bbd4)
+
+
+## NOT of 8 bit ALP :
+```python
+MOV AL,60H
+NOT AL
+HLT
+```
+
+## Output :
+![image](https://github.com/user-attachments/assets/52141d72-4251-4bfa-a004-12985b39fb22)
+
+
+## XOR of 8 bit ALP :
+```python
+MOV AL,14H
+MOV BL,24H
+XOR AL,BL
+HLT
+```
+
+## Output :
+![image](https://github.com/user-attachments/assets/0b173a1a-45c5-4f31-9b90-d6150721c9fa)
 
 ## Result :
+Thus to Write and execute ALP on fundamental arithmetic and logical operations are verified successfully.
  
 
 

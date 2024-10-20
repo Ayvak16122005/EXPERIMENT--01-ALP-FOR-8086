@@ -1,5 +1,5 @@
 
-![image](https://github.com/user-attachments/assets/178ef5b3-6e69-4271-b5c7-8f3674a2444e)# EXPERIMENT--01-ALP-FOR-8086
+# EXPERIMENT--01-ALP-FOR-8086
 Name :
 Roll no 
 Date of experiment :

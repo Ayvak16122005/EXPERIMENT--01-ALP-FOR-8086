@@ -3,6 +3,7 @@
 
 ## Name :KAVYA T
 ## Roll no : 2305003004
+## DEPARTMENT: B.TECH ARTIFICIAL INTELLEGENCE AND MACHINE LEARNING
 ## Date of experiment :  
 
 
